@@ -1,4 +1,4 @@
-# Avaliacao_Tecnica
+# Avaliacao Técnica
 ## Repositorio destinado a resoluçao da avaliacao técnica da L2code.
 <br>
 
@@ -6,7 +6,7 @@
 - [ ] Questão 2
 - [x] Questão 3
 > 
-
+<br>
 
 
  📋Questão 1<br>
